@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krislyz
 - 👀 I’m interested in Anime, Gaming and more!
 - 🌱 I’m currently learning C#, Lua and Blender.
-- 💞️ I’m looking to collaborate on anything FiveM related!
+- 💞️ I’m looking to collaborate on anything FiveM lua script related!
 - 📫 How to reach me: Krislyz#0001 on Discord!
