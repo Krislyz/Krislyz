@@ -8,4 +8,3 @@
 ---
 
 [![Krislyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krislyz&theme=radical)](https://github.com/Krislyz)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krislyz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
