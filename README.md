@@ -7,4 +7,4 @@
 
 ---
 
-[![Krislyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krislyz&theme=radical)](https://github.com/Krislyz)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krislyz&layout=compact)](https://github.com/Krislyz)
