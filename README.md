@@ -4,7 +4,3 @@
 - 📚 I’m currently learning Lua, Unity and Blender.
 - 💞️ I’m looking to collaborate on anything FiveM lua script / VRChat world/avatar related!
 - 📫 How to reach me: @krislyz on Discord!
-
----
-
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krislyz&layout=compact)](https://github.com/Krislyz)
