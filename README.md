@@ -3,4 +3,4 @@
 - 👀 I’m interested in Anime, Gaming (Mostly VRChat) and more!
 - 📚 I’m currently learning Lua, Unity and Blender.
 - 💞️ I’m looking to collaborate on anything FiveM lua script / VRChat world/avatar related!
-- 📫 How to reach me: @krislyz on Discord!
+- 📫 How to reach me: @krislyz on Discord or krislyz#0000 on Fluxer!
